@@ -1,0 +1,31 @@
+22:32:57.685 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is Finished*******
+22:33:46.058 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is started********** 
+22:33:49.664 [main] INFO  TestCases.TS_01Bikes - read the values in table an 
+22:34:35.762 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is started********** 
+22:34:48.875 [main] INFO  TestCases.TS_02Cars - *******Test for used cars is started*******
+22:34:49.085 [main] INFO  TestCases.TS_02Cars -  For Used cars in Chennai
+22:35:01.570 [main] INFO  TestCases.TS_02Cars -  extract all the popular models in a List; Display the same
+22:35:01.869 [main] INFO  TestCases.TS_02Cars - *******Test for used cars is Finished*******
+22:35:13.087 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is started*******
+22:35:13.307 [main] INFO  TestCases.TS_03SignUp - click on google signup and give the values
+22:35:16.020 [main] INFO  TestCases.TS_03SignUp - validate the error message
+22:35:16.603 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is Finished*******
+22:36:11.816 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is started********** 
+22:36:55.732 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is started********** 
+22:37:29.557 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is started********** 
+22:37:39.061 [main] INFO  TestCases.TS_01Bikes - read the values in table an 
+22:47:18.552 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is started********** 
+22:47:34.386 [main] INFO  TestCases.TS_01Bikes - read the values in table an 
+22:48:24.692 [main] INFO  TestCases.TS_01Bikes - *******Test for upcomingBikes is Finished********** 
+09:55:35.186 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is started*******
+09:55:35.630 [main] INFO  TestCases.TS_03SignUp - click on google signup and give the values
+09:55:40.332 [main] INFO  TestCases.TS_03SignUp - validate the error message
+09:55:40.820 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is Finished*******
+10:10:45.000 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is started*******
+10:10:45.566 [main] INFO  TestCases.TS_03SignUp - click on google signup and give the values
+10:10:50.883 [main] INFO  TestCases.TS_03SignUp - validate the error message
+10:10:51.457 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is Finished*******
+10:27:04.319 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is started*******
+10:27:04.706 [main] INFO  TestCases.TS_03SignUp - click on google signup and give the values
+10:27:09.641 [main] INFO  TestCases.TS_03SignUp - validate the error message
+10:27:10.349 [main] INFO  TestCases.TS_03SignUp - ******Test for google signup is Finished*******
